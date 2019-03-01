@@ -7,7 +7,7 @@ Article under review in Plos Biology. Preprint can be found [here](https://www.b
 - Class bci contains the methods for fitting Bayesian Causal Inference models to behavioural and EEG data
 - Class mvpa contains the methods for performing Support Vector Regression and related statistics on EEG data
 - Class mvpares handles the mvpa result data and plotting as an mvpares object. 
-- The rest of the functions are for running the preprocessing, mvpa, bci, statistics and figure drawing, and some auxiliary functions. 
+- The rest of the functions are for running the behavioural analysis, preprocessing, mvpa, bci, TF-analysis, statistics and figure drawing, and some auxiliary functions. 
 
 ## Dependencies
 Code is written in MATLAB, tested on MATLAB R2016a. 
