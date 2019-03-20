@@ -1,7 +1,7 @@
 # Soruce code for research article: <br/>"To integrate or not to integrate:  Temporal dynamics of hierarchical Bayesian Causal Inference" 
 **By Máté Aller and Uta Noppeney**
 
-Accepted for publication in Plos Biology. Preprint can be found [here](https://www.biorxiv.org/content/10.1101/504118v2).
+In Press in Plos Biology. Preprint can be found [here](https://www.biorxiv.org/content/10.1101/504118v2).
 
 ## Description
 - Class bci contains the methods for fitting Bayesian Causal Inference models to behavioural and EEG data
