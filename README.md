@@ -22,6 +22,7 @@ Code is written in MATLAB, tested on MATLAB R2016a.
 4. [CircStat](https://www.jstatsoft.org/article/view/v031i10)
 5. [MathWorks File Exchange functions](https://uk.mathworks.com/matlabcentral/fileexchange/?s_tid=gn_mlc_fx)
    - barwitherr
+   - consolidator
    - fminsearchbnd
    - jheapcl
    - numSubplots
