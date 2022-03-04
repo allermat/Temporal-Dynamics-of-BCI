@@ -1,4 +1,4 @@
-# Soruce code for research article: <br/>"To integrate or not to integrate:  Temporal dynamics of hierarchical Bayesian Causal Inference" 
+# Source code for research article: <br/>"To integrate or not to integrate:  Temporal dynamics of hierarchical Bayesian Causal Inference" 
 **By Máté Aller and Uta Noppeney**
 
 Published in [Plos Biology](https://journals.plos.org/plosbiology/article/authors?id=10.1371/journal.pbio.3000210)
